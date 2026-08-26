@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Varren Meg Naive
 
-<!--
-**MartialbutDev/MartialbutDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSIT Student • Backend Developer • Full-Stack Developer
 
-Here are some ideas to get you started:
+🎓 University of Science and Technology
+🇵🇭 Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+🚀 Academic Internship Management System (AIMS)
+
+Tech Stack
+Java • PHP • Laravel • React • React Native
+Python • JavaScript • MySQL • Git
