@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20·%20UI/UX%20Designer%20·%20BSIT%20Student&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20·%20UI/UX%20Designer%20·%20BSIT%20Student&descAlignY=62&descSize=16&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f4f4f5,100:e4e4e7&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=18181b&fontAlignY=40&desc=Software%20Developer%20·%20UI/UX%20Designer%20·%20BSIT%20Student&descAlignY=62&descSize=16&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20·%20UI/UX%20Designer%20·%20BSIT%20Student&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+</picture>
 
 <br/>
 
@@ -28,6 +32,10 @@
 <a href="#connect">Connect</a>
 
 </div>
+
+<br/>
+
+<sub>⸻</sub>
 
 <br/>
 
@@ -89,31 +97,31 @@ SOFTWARE ENGINEERING  +  UI/UX DESIGN  +  PRODUCT THINKING  =  BETTER DIGITAL PR
 <details open>
 <summary><b>Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,mysql,html,css&theme=dark" />
 </details>
 
 <details>
 <summary><b>Frontend / Mobile</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind" /> &nbsp; <sub>Expo · React Native</sub>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /> &nbsp; <sub>Expo · React Native</sub>
 </details>
 
 <details>
 <summary><b>Backend</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,php" /> &nbsp; <sub>REST APIs · JWT</sub>
+<img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" /> &nbsp; <sub>REST APIs · JWT</sub>
 </details>
 
 <details>
 <summary><b>Database</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
 </details>
 
 <details>
 <summary><b>Tools</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> &nbsp; <sub>XAMPP · MySQL Workbench</sub>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> &nbsp; <sub>XAMPP · MySQL Workbench</sub>
 </details>
 
 <sub>Click a category to expand.</sub>
@@ -241,10 +249,19 @@ Good software should be useful, understandable, maintainable, and usable.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&theme=default" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&theme=vue-dark&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&theme=vue-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&theme=default" width="30%"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MartialbutDev&hide_border=true&theme=default" width="48%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MartialbutDev&hide_border=true&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=MartialbutDev&hide_border=true&theme=default" width="48%"/>
+</picture>
 
 <br/><br/>
 
@@ -255,14 +272,15 @@ Good software should be useful, understandable, maintainable, and usable.
 </div>
 
 <details>
-<summary><sub>How the snake animation is generated (one-time setup)</sub></summary>
+<summary><sub>Notes on the widgets above</sub></summary>
 <br/>
 
-This animates your real contribution graph. It needs a small GitHub Action, not fabricated data:
-
-1. In this repo, add `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action.
-2. It generates `github-contribution-grid-snake-dark.svg` on an `output` branch from your actual contribution calendar.
-3. The `<img>` above will start rendering once that branch and file exist — until then it will show as broken.
+- **Dark/light adaptive** — the stats, top-languages, and streak cards switch theme automatically with GitHub's light/dark mode.
+- **If a card doesn't render** — `github-readme-stats.vercel.app` is a shared free instance and occasionally rate-limits under load. If it stays broken, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (one-click on Vercel) and swap the URLs.
+- **Snake animation** — animates your real contribution graph. Needs a one-time setup, not fabricated data:
+  1. Add `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action.
+  2. It generates `github-contribution-grid-snake-dark.svg` on an `output` branch from your actual contribution calendar.
+  3. The image above renders once that branch and file exist — until then it shows as broken.
 
 </details>
 
@@ -273,9 +291,9 @@ This animates your real contribution graph. It needs a small GitHub Action, not 
 | | |
 |---|---|
 | GitHub | [github.com/MartialbutDev](https://github.com/MartialbutDev) |
-| Email | `YOUR_EMAIL@example.com` |
-| LinkedIn | `YOUR_LINKEDIN_URL` |
-| Portfolio | `YOUR_PORTFOLIO_URL` |
+| Email | `varrenmegm.naive@gmai.com` |
+| LinkedIn | `https://www.facebook.com/varren.meg.naive.2024` |
+| Portfolio | `N/a` |
 
 <br/>
 
@@ -284,5 +302,12 @@ This animates your real contribution graph. It needs a small GitHub Action, not 
 Building, learning, and improving one project at a time.
 
 *Thanks for visiting my profile.*
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e4e4e7,100:f4f4f5&height=100&section=footer" width="100%"/>
+</picture>
 
 </div>
