@@ -1,215 +1,337 @@
 # Varren Meg Naive
 
-### BSIT Student · Software Developer · Backend · Mobile · Web
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=240&section=header&text=Varren%20Meg%20Naive&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20BSIT%20Student&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Varren Meg Naive" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MartialbutDev">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MartialbutDev-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/BSIT-Student-111827?style=flat-square" alt="BSIT Student" />
-  <img src="https://img.shields.io/badge/Backend-Development-111827?style=flat-square" alt="Backend Development" />
-  <img src="https://img.shields.io/badge/Mobile-Development-111827?style=flat-square" alt="Mobile Development" />
-  <img src="https://img.shields.io/badge/Web-Development-111827?style=flat-square" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Backend-Development-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Development-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-0F172A?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20BSIT%20Student&descAlignY=62&descSize=18" alt="Varren Meg Naive developer banner" />
+  <strong>Building software. Designing experiences. Solving real problems.</strong>
 </p>
 
 ---
 
-## About
+## `01` — About Me
 
-I'm **Varren Meg Naive**, a BSIT student and software developer interested in building practical software systems.
+I'm **Varren Meg Naive**, a BSIT student and software developer focused on building practical digital products across **backend, mobile, web, and UI/UX design**.
 
-I work across **backend, mobile, and web development**, with a growing interest in APIs, databases, software architecture, and UI/UX. I enjoy turning requirements into applications that are useful, maintainable, and easy to understand.
+I enjoy working at the intersection of **engineering and design** — turning ideas into interfaces that feel intuitive and systems that are structured, maintainable, and reliable.
 
-Currently, I'm focused on strengthening my development skills through academic projects, personal projects, and hands-on system development.
+My current development journey revolves around building real-world systems, improving my software architecture skills, and developing a stronger eye for product design.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  SOFTWARE DEVELOPER                                          │
+│  ├── Backend Systems                                         │
+│  ├── REST APIs                                               │
+│  ├── Mobile Applications                                     │
+│  ├── Full-Stack Web                                          │
+│  └── Database Architecture                                   │
+│                                                              │
+│  UI/UX DESIGN                                                │
+│  ├── Interface Design                                        │
+│  ├── Responsive Layouts                                      │
+│  ├── Design Systems                                          │
+│  ├── User Experience                                         │
+│  └── Usability                                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Stack
+## `02` — What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Software Engineering
+
+Designing and developing applications with a focus on structure, maintainability, and real-world usability.
+
+**Focus**
+
+`Backend` · `APIs` · `Mobile` · `Web` · `Databases`
+
+</td>
+
+<td width="50%">
+
+### ◇ UI/UX Design
+
+Creating interfaces that balance visual quality with usability, accessibility, and clear information architecture.
+
+**Focus**
+
+`UI Design` · `UX` · `Design Systems` · `Prototyping`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — Technology
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,mysql,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,mysql,html,css" />
 </p>
 
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,expo" alt="Frontend and Mobile Technologies" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo,tailwind" />
 </p>
 
-* React
-* React Native
-* Expo
-* Tailwind CSS
-
-### Backend
-
-* Laravel
-* PHP
-* REST APIs
-* JWT Authentication
-
-### Database
+### Backend & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=laravel,php" />
 </p>
 
-* MySQL
-* MariaDB
+`REST APIs` · `JWT` · `Authentication` · `API Architecture`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+</p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-* Git
-* GitHub
-* VS Code
-* XAMPP
-* MySQL Workbench
+`XAMPP` · `MySQL Workbench` · `Git` · `GitHub`
 
 ---
 
-## Featured Projects
-
-A selection of projects that represent the systems and technologies I'm currently working with.
+## `04` — Featured Project
 
 ### Academic Internship Management System
 
-**AIMS** is a mobile-first academic internship management platform designed to support the internship workflow for students and university stakeholders.
+> **A mobile-first platform for managing academic internship workflows.**
 
-**Key areas include:**
+**AIMS** is a modern internship management system designed to support students and university stakeholders throughout the internship process.
 
-* Internship applications
-* Student document management
-* OCR-based document validation
-* Daily Time Records (DTR)
-* Weekly journals
-* Internship monitoring
-* Student evaluations
-* Notifications
-* Analytics
-* Reports
+```text
+APPLICATION
+     │
+     ├── Internship Applications
+     ├── Document Management
+     ├── OCR Validation
+     ├── DTR
+     ├── Weekly Journals
+     ├── Internship Monitoring
+     ├── Evaluations
+     ├── Notifications
+     ├── Analytics
+     └── Reports
+```
 
-**Stack:** React Native · Expo · Laravel/PHP · REST API · JWT · MySQL
+### Architecture
 
-**Status:** `In Development`
+`React Native` · `Expo` · `Laravel/PHP` · `REST API` · `JWT` · `MySQL`
 
-> Repository: **[AIMS Repository](YOUR_AIMS_REPOSITORY_URL)**
+**Status**
 
----
+`● IN DEVELOPMENT`
 
-### Other Projects
+**Repository**
 
-#### Project Name
-
-A concise one-sentence description explaining the problem the project solves and what makes it useful.
-
-**Stack:** `Technology · Technology · Technology`
-**Status:** `Completed`
-
-> Repository: **[View Repository](YOUR_PROJECT_REPOSITORY_URL)`
-> Demo: **[Live Demo](YOUR_LIVE_DEMO_URL)**
-
-#### Project Name
-
-A concise description of another meaningful project. Focus on what was built rather than simply listing technologies.
-
-**Stack:** `Technology · Technology · Technology`
-**Status:** `Active`
-
-> Repository: **[View Repository](YOUR_PROJECT_REPOSITORY_URL)`
+[View AIMS Repository →](YOUR_AIMS_REPOSITORY_URL)
 
 ---
 
-## GitHub Activity
+## `05` — How I Think
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+I approach development from both the **engineering** and **design** sides.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartialbutDev&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartialbutDev&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-</p>
+| Principle                     | What it means                                                           |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| **Solve the problem first**   | Technology should serve the problem, not the other way around.          |
+| **Design with intention**     | Every interface element should have a reason to exist.                  |
+| **Keep systems maintainable** | Good software should be understandable beyond its first implementation. |
+| **Build for people**          | Usability matters as much as functionality.                             |
 
 ---
 
-## How I Build
+## `06` — Design Philosophy
 
-I try to keep development simple and purposeful.
+### `Structure → Function → Experience`
 
-| Principle                     | Approach                                                                   |
-| ----------------------------- | -------------------------------------------------------------------------- |
-| **Build practical solutions** | Focus on solving real problems instead of adding unnecessary complexity.   |
-| **Keep systems maintainable** | Write code that is understandable, organized, and easier to improve.       |
-| **Prioritize usability**      | Consider how people actually interact with the software.                   |
-| **Keep learning**             | Improve through projects, experimentation, feedback, and new technologies. |
+```text
+STRUCTURE
+   ↓
+Architecture
+Data
+APIs
+Components
+   ↓
+FUNCTION
+   ↓
+Features
+Logic
+Workflows
+   ↓
+EXPERIENCE
+   ↓
+UI
+UX
+Accessibility
+Usability
+```
+
+The goal isn't simply to make software that works.
+
+**The goal is to make software that makes sense.**
 
 ---
 
-## Current Focus
+## `07` — Current Focus
 
-* Backend development
-* React Native development
-* Full-stack web development
+```text
+BACKEND DEVELOPMENT       ███████████████████░
+REACT NATIVE              ██████████████████░░
+FULL-STACK WEB            ████████████████░░░░
+API DEVELOPMENT           █████████████████░░░
+DATABASE DESIGN           ███████████████░░░░░
+SOFTWARE ARCHITECTURE     ██████████████░░░░░░
+UI/UX DESIGN              █████████████████░░░
+```
+
+Currently exploring:
+
+* Backend architecture
+* React Native
 * REST API development
 * Database design
+* Authentication systems
+* Full-stack development
+* UI/UX systems
+* Modern interface design
 * Software architecture
-* UI/UX
 
 ---
 
-## Contributions
+## `08` — GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&langs_count=8" height="170" />
 </p>
 
-Interested in what I'm building?
-
-**Explore my repositories → [GitHub](https://github.com/MartialbutDev)**
-
----
-
-## Connect
-
-I'm open to connecting with other developers, students, instructors, and people interested in building software.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MartialbutDev&hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/MartialbutDev">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
+## `09` — Beyond Code
+
+Good software isn't only about code.
+
+I'm also interested in:
+
+```text
+UI DESIGN
+    +
+USER EXPERIENCE
+    +
+INFORMATION ARCHITECTURE
+    +
+DESIGN SYSTEMS
+    +
+SOFTWARE ARCHITECTURE
+    =
+BETTER DIGITAL PRODUCTS
+```
+
+I want to continue developing the ability to understand **both how a system works and how people experience it.**
+
+---
+
+## `10` — Roadmap
+
+### Now
+
+`●` Strengthen backend development
+`●` Build React Native applications
+`●` Improve UI/UX skills
+`●` Develop real-world systems
+
+### Next
+
+`○` Deeper software architecture
+`○` Advanced API design
+`○` Scalable application development
+`○` Better product design systems
+
+### Eventually
+
+`○` Build and ship production-grade software
+`○` Contribute to meaningful open-source projects
+`○` Develop complete digital products from idea → design → system
+
+---
+
+## `11` — Connect
+
 <p align="center">
-  <sub>Building, learning, and improving one project at a time.</sub>
-  <br />
-  <sub>Thanks for visiting my profile.</sub>
+
+<a href="https://github.com/MartialbutDev">
+<img src="https://img.shields.io/badge/GitHub-MartialbutDev-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Building. Designing. Learning. Improving.
+
+<sub>
+Building, learning, and improving one project at a time.
+</sub>
+
+<br />
+
+<sub>
+Thanks for visiting my profile.
+</sub>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=110&section=footer" width="100%" />
 </p>
