@@ -1,88 +1,57 @@
-<!-- ========================= -->
+---
 
-<!--        PROFILE HEADER     -->
+## 👨‍💻 About Me
 
-<!-- ========================= -->
+Hi, I'm **Varren Meg Naive** — a **BSIT student and aspiring software developer** from the **University of Science and Technology of Southern Philippines (USTP)**.
+
+I enjoy turning ideas into practical software by combining **backend logic, database design, APIs, and modern user interfaces**. I'm especially interested in building systems that are reliable, maintainable, and easy for people to use.
+
+Currently, my main focus is **backend development and mobile application development**, while continuously strengthening my skills in **REST APIs, Laravel, React Native, databases, and system architecture**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Mobile%20%7C%20Web%20Developer&descAlignY=60&descSize=18&color=0:0D1117,100:1F6FEB" width="100%"/>
-
-<h3>Building practical software solutions through code.</h3>
-
-<p>
-  <a href="https://github.com/MartialbutDev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BSIT+Student+%7C+USTP;Backend+%26+Mobile+Developer;Building+the+AIMS+Capstone+Project;Learning%2C+Building%2C+Improving." alt="Typing introduction"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/MartialbutDev">
-    <img src="https://komarev.com/ghpvc/?username=MartialbutDev&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/MartialbutDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/MartialbutDev?label=Followers&style=flat-square&color=238636" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/MartialbutDev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MartialbutDev?label=Stars&style=flat-square&color=8957e5" alt="GitHub stars"/>
-  </a>
-</p>
+|      🎓 Education      |       💻 Development       |   📱 Current Project  |
+| :--------------------: | :------------------------: | :-------------------: |
+|     **BSIT @ USTP**    |    **Backend & Mobile**    |        **AIMS**       |
+| Information Technology | APIs • Databases • Systems | Internship Management |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Varren Meg Naive**, a **Bachelor of Science in Information Technology (BSIT)** student at the **University of Science and Technology of Southern Philippines (USTP)**.
-
-I enjoy building software that combines **reliable backend systems, well-structured databases, intuitive interfaces, and practical functionality**.
-
-My current focus is on **backend development, mobile application development, REST APIs, database design, and system architecture**.
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    DEVELOPER PROFILE                     │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🎓  BSIT Student @ USTP                                 │
-│  💻  Backend & Full-Stack Development                    │
-│  📱  Mobile Application Development                      │
-│  🌐  Web & REST API Development                          │
-│  🗄️  Database Design & Management                        │
-│  🚀  Building AIMS                                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎯 Current Focus
+## 🎯 What I'm Focused On
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend Development
+### ⚙️ Backend Development
 
-* Laravel & PHP
-* REST API development
+Building the logic and infrastructure behind applications.
+
+* **PHP & Laravel**
+* RESTful API development
 * Authentication & authorization
 * Database architecture
 * API integration
-* Server-side application logic
+* Server-side business logic
+* Data validation & management
 
 </td>
-<td width="50%">
 
-### Mobile Development
+<td width="50%" valign="top">
 
-* React Native
-* Expo
-* Mobile-first UI/UX
+### 📱 Mobile Development
+
+Creating practical and user-friendly cross-platform applications.
+
+* **React Native**
+* **Expo**
+* Mobile-first development
 * API integration
 * Application architecture
-* Cross-platform development
+* UI/UX implementation
+* Responsive interfaces
 
 </td>
 </tr>
@@ -98,53 +67,103 @@ My current focus is on **backend development, mobile application development, RE
 
 ### **AIMS**
 
+**A mobile-first platform for managing university internship workflows.**
+
 </div>
 
-**AIMS** is a mobile-first **Academic Internship Management System** designed to help universities organize and manage student internship processes digitally.
+### 📌 Project Overview
 
-The project focuses on improving the way students, coordinators, host training establishments, and university personnel handle internship-related activities and documentation.
+**AIMS (Academic Internship Management System)** is a mobile-first system designed to streamline and digitize internship management within a university environment.
 
-### ✨ Core Features
+The platform brings together **students, internship coordinators, host training establishments, and university personnel** into a centralized system for managing applications, documents, monitoring, records, and reports.
 
-| Module                | Function                                   |
-| :-------------------- | :----------------------------------------- |
-| 🔐 **Authentication** | Secure login and role-based access         |
-| 📝 **Applications**   | Digital internship application management  |
-| 🏢 **HTE Management** | Host Training Establishment management     |
-| 📄 **Documents**      | Digital document submission and management |
-| 🔎 **OCR Validation** | Automated document information extraction  |
-| ⏱️ **DTR**            | Daily Time Record management               |
-| 📖 **Journals**       | Weekly internship journal submissions      |
-| 📊 **Monitoring**     | Internship progress monitoring             |
-| 📈 **Analytics**      | Data-driven internship insights            |
-| 🔔 **Notifications**  | Important system updates                   |
-| 📑 **Reports**        | Digital reporting and documentation        |
+The goal is to reduce manual processes, improve organization, and make internship management more accessible and efficient.
+
+### ✨ Key Modules
+
+| Module                         | Purpose                                         |
+| :----------------------------- | :---------------------------------------------- |
+| 🔐 **Authentication**          | Secure access with role-based permissions       |
+| 📝 **Internship Applications** | Manage and track student applications           |
+| 🏢 **HTE Management**          | Manage Host Training Establishments             |
+| 📄 **Document Management**     | Submit and organize internship requirements     |
+| 🔎 **OCR Validation**          | Extract and validate information from documents |
+| ⏱️ **DTR**                     | Record and monitor daily internship attendance  |
+| 📖 **Weekly Journals**         | Document student internship experiences         |
+| 📊 **Monitoring**              | Track internship progress and status            |
+| 📈 **Analytics**               | Generate useful internship insights             |
+| 🔔 **Notifications**           | Deliver important updates and reminders         |
+| 📑 **Reports**                 | Generate organized internship documentation     |
 
 ### 🧩 Technology Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,laravel,php,mysql,git,github" />
-</p>
+<div align="center">
 
-**React Native • Expo • Laravel • PHP • MySQL • REST API • OCR**
+`React Native` · `Expo` · `Laravel` · `PHP` · `MySQL` · `REST API` · `OCR`
+
+</div>
+
+### 🏗️ Project Architecture
+
+```text
+                    ┌─────────────────────┐
+                    │      AIMS Mobile    │
+                    │    React Native     │
+                    └──────────┬──────────┘
+                               │
+                               │ REST API
+                               ▼
+                    ┌─────────────────────┐
+                    │    Laravel Backend  │
+                    │      PHP / API      │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌─────────────┐      ┌─────────────┐
+             │    MySQL    │      │     OCR     │
+             │  Database   │      │ Validation  │
+             └─────────────┘      └─────────────┘
+```
 
 ---
 
 # 🛠️ Technical Skills
 
-<div align="center">
+### 💻 Languages
 
-### Languages
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks & Libraries
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,laravel,tailwind" />
+### ⚛️ Frameworks & Libraries
 
-### Databases & Tools
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,vscode,postman" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Development Tools
+
+<div align="left">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
 
@@ -152,29 +171,39 @@ The project focuses on improving the way students, coordinators, host training e
 
 ## 🧠 Development Areas
 
+I work across different parts of the application development process, with a stronger interest in **backend systems and mobile applications**.
+
 ```text
-Backend Development
-        │
-        ├── PHP / Laravel
-        ├── REST APIs
-        ├── Authentication
-        └── Business Logic
-                │
-                ▼
-        Database Development
-                │
-        ├── MySQL
-        ├── MariaDB
-        ├── Database Design
-        └── Data Management
-                │
-                ▼
-        Application Development
-                │
-        ├── React
-        ├── React Native
-        ├── Expo
-        └── Mobile UI/UX
+┌─────────────────────────────────────────────────┐
+│              APPLICATION LAYER                  │
+│                                                 │
+│       React • React Native • Expo               │
+│                 UI / UX                         │
+└───────────────────────┬─────────────────────────┘
+                        │
+                        ▼
+┌─────────────────────────────────────────────────┐
+│                  API LAYER                      │
+│                                                 │
+│       REST APIs • Authentication                │
+│       Validation • Business Logic               │
+└───────────────────────┬─────────────────────────┘
+                        │
+                        ▼
+┌─────────────────────────────────────────────────┐
+│                BACKEND LAYER                    │
+│                                                 │
+│             PHP • Laravel                      │
+│       Services • Controllers • Logic            │
+└───────────────────────┬─────────────────────────┘
+                        │
+                        ▼
+┌─────────────────────────────────────────────────┐
+│                  DATA LAYER                     │
+│                                                 │
+│       MySQL • MariaDB • Database Design         │
+│       Relationships • Data Management            │
+└─────────────────────────────────────────────────┘
 ```
 
 ---
@@ -230,21 +259,24 @@ Backend Development
 # 🌱 Currently Learning
 
 <details>
-<summary><b>Click to explore my current learning path</b></summary>
+<summary><b>🔧 Backend Development</b></summary>
 
 <br>
 
-### 🔧 Backend
-
-* Laravel
-* PHP
+* Laravel & PHP
 * RESTful API design
 * Authentication & authorization
 * API security
 * Database architecture
 * Backend optimization
+* Scalable application structure
 
-### 📱 Mobile
+</details>
+
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+
+<br>
 
 * React Native
 * Expo
@@ -253,7 +285,12 @@ Backend Development
 * Responsive UI/UX
 * Application state management
 
-### 🏗️ Software Engineering
+</details>
+
+<details>
+<summary><b>🏗️ Software Engineering</b></summary>
+
+<br>
 
 * System architecture
 * Database normalization
@@ -266,29 +303,36 @@ Backend Development
 
 ---
 
-# 🎯 Development Goals
+# 🎯 Development Roadmap
 
-<details>
-<summary><b>2026 Goals</b></summary>
-
-<br>
-
-* [x] Learn programming fundamentals
-* [x] Build web applications
-* [x] Work with databases
-* [x] Learn Git & GitHub
-* [x] Learn React
-* [x] Learn React Native
-* [x] Learn Laravel
-* [x] Build REST APIs
-* [ ] Complete the AIMS capstone project
-* [ ] Strengthen backend architecture skills
-* [ ] Build more production-ready applications
-* [ ] Improve software engineering practices
-* [ ] Contribute to open-source projects
-* [ ] Continue developing as a professional software developer
-
-</details>
+```text
+COMPLETED
+   │
+   ├── Programming Fundamentals       ✓
+   ├── Database Development           ✓
+   ├── Git & GitHub                   ✓
+   ├── Web Development                ✓
+   ├── React                          ✓
+   ├── React Native                   ✓
+   ├── Laravel                        ✓
+   └── REST API Development            ✓
+   │
+   ▼
+CURRENT
+   │
+   ├── AIMS Capstone Project          ◉
+   ├── Backend Architecture           ◉
+   ├── Mobile Application Development ◉
+   └── System Design                  ◉
+   │
+   ▼
+NEXT
+   │
+   ├── Production-ready Applications
+   ├── Open-source Contributions
+   ├── Advanced Backend Development
+   └── Professional Software Development
+```
 
 ---
 
@@ -296,9 +340,9 @@ Backend Development
 
 <div align="center">
 
-### **Build → Test → Learn → Improve**
+## **Build → Test → Learn → Improve**
 
-> I believe the best way to learn software development is by building real projects, solving problems, understanding mistakes, and continuously improving.
+I believe software development is a continuous process of **building real solutions, learning from problems, and improving through experience**.
 
 </div>
 
@@ -322,9 +366,9 @@ Backend Development
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### 👋 Thanks for visiting my profile!
 
-**Feel free to explore my repositories and follow my development journey.**
+**Explore my repositories, follow my projects, and watch my development journey grow.**
 
 <br>
 
