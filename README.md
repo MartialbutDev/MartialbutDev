@@ -1,247 +1,333 @@
-# 👋 Hi, I'm Varren Meg Naive
+<!-- ========================= -->
 
-### 💻 BSIT Student • Backend Developer • Mobile & Web Developer
+<!--        PROFILE HEADER     -->
 
-I'm a **Bachelor of Science in Information Technology (BSIT)** student at the **University of Science and Technology of Southern Philippines (USTP)** who enjoys turning ideas into practical software solutions.
+<!-- ========================= -->
 
-I’m particularly interested in **backend development, mobile applications, web development, databases, and system design**. I enjoy working on projects that solve real-world problems while continuously learning and improving my development skills.
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Varren%20Meg%20Naive&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Mobile%20%7C%20Web%20Developer&descAlignY=60&descSize=18&color=0:0D1117,100:1F6FEB" width="100%"/>
 
-## 🚀 About Me
+<h3>Building practical software solutions through code.</h3>
 
-* 🎓 BSIT Student at **USTP**
-* 💻 Focused on **Backend & Full-Stack Development**
-* 📱 Building mobile applications with **React Native & Expo**
-* 🌐 Developing web applications and REST APIs
-* 🗄️ Working with relational databases and backend systems
-* 🚀 Currently developing **Academic Internship Management System (AIMS)**
-* 🌱 Currently learning more about **Laravel, React Native, system architecture, and API development**
-* 🎨 Interested in creating clean, modern, and user-friendly interfaces
-* ⚡ I enjoy learning by building real projects
+<p>
+  <a href="https://github.com/MartialbutDev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BSIT+Student+%7C+USTP;Backend+%26+Mobile+Developer;Building+the+AIMS+Capstone+Project;Learning%2C+Building%2C+Improving." alt="Typing introduction"/>
+  </a>
+</p>
 
----
+<p>
+  <a href="https://github.com/MartialbutDev">
+    <img src="https://komarev.com/ghpvc/?username=MartialbutDev&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/MartialbutDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/MartialbutDev?label=Followers&style=flat-square&color=238636" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/MartialbutDev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MartialbutDev?label=Stars&style=flat-square&color=8957e5" alt="GitHub stars"/>
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### 🗄️ Database & Development Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 👨‍💻 About Me
 
-### 📱 Academic Internship Management System — AIMS
+I'm **Varren Meg Naive**, a **Bachelor of Science in Information Technology (BSIT)** student at the **University of Science and Technology of Southern Philippines (USTP)**.
 
-**AIMS** is a mobile-first **Academic Internship Management System** designed to help universities manage and streamline student internship processes.
+I enjoy building software that combines **reliable backend systems, well-structured databases, intuitive interfaces, and practical functionality**.
 
-The system focuses on making internship management more organized, accessible, and efficient for students and university personnel.
-
-### ✨ Key Features
-
-* 🔐 User Authentication & Role Management
-* 📝 Student Internship Applications
-* 🏢 Host Training Establishment Management
-* 📄 Digital Document Submission
-* 🔎 OCR-Based Document Validation
-* ⏱️ Daily Time Record (DTR)
-* 📖 Weekly Internship Journals
-* 📊 Internship Monitoring & Analytics
-* 🔔 Notifications
-* 📑 Reports & Documentation
-
-### 🔧 Technologies
+My current focus is on **backend development, mobile application development, REST APIs, database design, and system architecture**.
 
 ```text
-React Native
-Expo
-Laravel
-PHP
-MySQL
-REST API
-OCR
-Git & GitHub
+┌──────────────────────────────────────────────────────────┐
+│                    DEVELOPER PROFILE                     │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  🎓  BSIT Student @ USTP                                 │
+│  💻  Backend & Full-Stack Development                    │
+│  📱  Mobile Application Development                      │
+│  🌐  Web & REST API Development                          │
+│  🗄️  Database Design & Management                        │
+│  🚀  Building AIMS                                      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💡 What I'm Interested In
+## 🎯 Current Focus
 
-```text
-Backend Development
-        ↓
-REST API Development
-        ↓
-Database Design
-        ↓
-Mobile Application Development
-        ↓
-Web Development
-        ↓
-System Architecture
-```
-
-I enjoy working on projects where **backend logic, databases, APIs, and user interfaces** come together to create useful applications.
-
----
-
-## 🌱 Currently Learning
-
-<details>
-<summary>🔍 Click to expand</summary>
-
-<br>
+<table>
+<tr>
+<td width="50%">
 
 ### Backend Development
 
-* Laravel
-* PHP
-* REST API Development
-* Authentication & Authorization
-* API Integration
-* Database Architecture
+* Laravel & PHP
+* REST API development
+* Authentication & authorization
+* Database architecture
+* API integration
+* Server-side application logic
+
+</td>
+<td width="50%">
 
 ### Mobile Development
 
 * React Native
 * Expo
-* Mobile UI/UX
-* API Integration
-* Application Architecture
+* Mobile-first UI/UX
+* API integration
+* Application architecture
+* Cross-platform development
 
-### Software Development
-
-* System Design
-* Database Design
-* Clean Code
-* Git & GitHub
-* Software Documentation
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 My Goals
+# 🚀 Featured Project
 
-<details>
-<summary>🚀 Click to see my goals</summary>
+<div align="center">
 
-<br>
+## 📱 Academic Internship Management System
 
-* [x] Learn programming fundamentals
-* [x] Work with relational databases
-* [x] Learn Git & GitHub
-* [x] Build web applications
-* [x] Learn React
-* [x] Learn React Native
-* [x] Work with Laravel
-* [x] Build REST APIs
-* [ ] Complete the AIMS capstone project
-* [ ] Improve backend architecture skills
-* [ ] Build more production-ready applications
-* [ ] Contribute to open-source projects
-* [ ] Continue growing as a software developer
+### **AIMS**
 
-</details>
+</div>
 
----
+**AIMS** is a mobile-first **Academic Internship Management System** designed to help universities organize and manage student internship processes digitally.
 
-## 📊 GitHub Statistics
+The project focuses on improving the way students, coordinators, host training establishments, and university personnel handle internship-related activities and documentation.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&theme=github_dark&hide_border=true" />
+### ✨ Core Features
+
+| Module                | Function                                   |
+| :-------------------- | :----------------------------------------- |
+| 🔐 **Authentication** | Secure login and role-based access         |
+| 📝 **Applications**   | Digital internship application management  |
+| 🏢 **HTE Management** | Host Training Establishment management     |
+| 📄 **Documents**      | Digital document submission and management |
+| 🔎 **OCR Validation** | Automated document information extraction  |
+| ⏱️ **DTR**            | Daily Time Record management               |
+| 📖 **Journals**       | Weekly internship journal submissions      |
+| 📊 **Monitoring**     | Internship progress monitoring             |
+| 📈 **Analytics**      | Data-driven internship insights            |
+| 🔔 **Notifications**  | Important system updates                   |
+| 📑 **Reports**        | Digital reporting and documentation        |
+
+### 🧩 Technology Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,laravel,php,mysql,git,github" />
 </p>
 
+**React Native • Expo • Laravel • PHP • MySQL • REST API • OCR**
+
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartialbutDev&theme=github-dark-blue&hide_border=true" />
-</p>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,laravel,tailwind" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,vscode,postman" />
+
+</div>
+
+---
+
+## 🧠 Development Areas
+
+```text
+Backend Development
+        │
+        ├── PHP / Laravel
+        ├── REST APIs
+        ├── Authentication
+        └── Business Logic
+                │
+                ▼
+        Database Development
+                │
+        ├── MySQL
+        ├── MariaDB
+        ├── Database Design
+        └── Data Management
+                │
+                ▼
+        Application Development
+                │
+        ├── React
+        ├── React Native
+        ├── Expo
+        └── Mobile UI/UX
+```
+
+---
+
+# 📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/MartialbutDev/AIMS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=AIMS&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/MartialbutDev/Varren-Meg-Naive">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=Varren-Meg-Naive&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MartialbutDev&theme=github-dark-blue&hide_border=true&background=0D1117" width="70%" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&theme=github-compact&hide_border=true&area=true" width="95%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<details>
+<summary><b>Click to explore my current learning path</b></summary>
+
+<br>
+
+### 🔧 Backend
+
+* Laravel
+* PHP
+* RESTful API design
+* Authentication & authorization
+* API security
+* Database architecture
+* Backend optimization
+
+### 📱 Mobile
+
+* React Native
+* Expo
+* Mobile-first architecture
+* API integration
+* Responsive UI/UX
+* Application state management
+
+### 🏗️ Software Engineering
+
+* System architecture
+* Database normalization
+* Clean code
+* Version control
+* Software documentation
+* Development workflows
+
+</details>
 
 ---
 
-## 📂 Featured Repositories
+# 🎯 Development Goals
 
-<p align="center">
+<details>
+<summary><b>2026 Goals</b></summary>
 
-<a href="https://github.com/MartialbutDev/AIMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=AIMS&theme=github_dark&hide_border=true" />
-</a>
+<br>
 
-<a href="https://github.com/MartialbutDev/Varren-Meg-Naive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=Varren-Meg-Naive&theme=github_dark&hide_border=true" />
-</a>
+* [x] Learn programming fundamentals
+* [x] Build web applications
+* [x] Work with databases
+* [x] Learn Git & GitHub
+* [x] Learn React
+* [x] Learn React Native
+* [x] Learn Laravel
+* [x] Build REST APIs
+* [ ] Complete the AIMS capstone project
+* [ ] Strengthen backend architecture skills
+* [ ] Build more production-ready applications
+* [ ] Improve software engineering practices
+* [ ] Contribute to open-source projects
+* [ ] Continue developing as a professional software developer
 
-</p>
+</details>
 
 ---
 
-## 🤝 Let's Connect
+# 💭 Development Philosophy
 
-<p align="center">
+<div align="center">
+
+### **Build → Test → Learn → Improve**
+
+> I believe the best way to learn software development is by building real projects, solving problems, understanding mistakes, and continuously improving.
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/MartialbutDev">
-  <img src="https://img.shields.io/badge/GitHub-MartialbutDev-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-MartialbutDev-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:varrenmegn.naive@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 Developer Mindset
+### Thanks for visiting my profile! 👋
 
-> **Build. Learn. Break. Fix. Improve. Repeat.**
+**Feel free to explore my repositories and follow my development journey.**
 
 <br>
 
-⭐ **Thanks for visiting my GitHub profile!**
-
-If you find something interesting in my repositories, feel free to explore, fork, or leave a ⭐.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:1F6FEB" width="100%"/>
 
 </div>
