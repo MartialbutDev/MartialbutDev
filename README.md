@@ -1,79 +1,103 @@
 # Varren Meg Naive
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=240&section=header&text=Varren%20Meg%20Naive&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20BSIT%20Student&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Varren Meg Naive" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:171717,100:262626&height=230&section=header&text=Varren%20Meg%20Naive&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%2B%20UI%2FUX%20Designer&descAlignY=61&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Varren Meg Naive"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/MartialbutDev">
-    <img src="https://img.shields.io/badge/GitHub-MartialbutDev-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MartialbutDev-18181B?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Backend-Development-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Development-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-18181B?style=flat-square" />
 </p>
 
 <p align="center">
-  <strong>Building software. Designing experiences. Solving real problems.</strong>
+  <strong>Building software that works well and feels right.</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Backend engineering · Mobile development · Web development · UI/UX
+  </sub>
 </p>
 
 ---
 
-## `01` — About Me
+## Hello, I'm Varren.
 
-I'm **Varren Meg Naive**, a BSIT student and software developer focused on building practical digital products across **backend, mobile, web, and UI/UX design**.
+I'm a **BSIT student and software developer** who enjoys working across the boundary between **engineering and design**.
 
-I enjoy working at the intersection of **engineering and design** — turning ideas into interfaces that feel intuitive and systems that are structured, maintainable, and reliable.
+I build practical applications with a focus on clean architecture, useful interfaces, reliable APIs, and thoughtful user experiences.
 
-My current development journey revolves around building real-world systems, improving my software architecture skills, and developing a stronger eye for product design.
+My work currently spans **backend systems, mobile applications, full-stack web development, databases, and UI/UX design**.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  SOFTWARE DEVELOPER                                          │
-│  ├── Backend Systems                                         │
-│  ├── REST APIs                                               │
-│  ├── Mobile Applications                                     │
-│  ├── Full-Stack Web                                          │
-│  └── Database Architecture                                   │
-│                                                              │
-│  UI/UX DESIGN                                                │
-│  ├── Interface Design                                        │
-│  ├── Responsive Layouts                                      │
-│  ├── Design Systems                                          │
-│  ├── User Experience                                         │
-│  └── Usability                                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+        IDEA
+         │
+         ▼
+      DESIGN
+         │
+         ▼
+    ARCHITECTURE
+         │
+         ▼
+   DEVELOPMENT
+         │
+         ▼
+      TESTING
+         │
+         ▼
+     EXPERIENCE
 ```
+
+I don't just want to build software that works.
+
+**I want to build software that makes sense.**
 
 ---
 
-## `02` — What I Do
+# What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+## Software Engineering
 
-Designing and developing applications with a focus on structure, maintainability, and real-world usability.
+I design and build applications with an emphasis on structure, maintainability, and real-world requirements.
 
-**Focus**
+**Core**
 
-`Backend` · `APIs` · `Mobile` · `Web` · `Databases`
+* Backend development
+* REST API development
+* Authentication
+* Database architecture
+* Mobile applications
+* Full-stack web development
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◇ UI/UX Design
+## UI/UX Design
 
-Creating interfaces that balance visual quality with usability, accessibility, and clear information architecture.
+I approach interfaces from the user's perspective, focusing on clarity, hierarchy, consistency, and usability.
 
-**Focus**
+**Core**
 
-`UI Design` · `UX` · `Design Systems` · `Prototyping`
+* Interface design
+* User experience
+* Responsive layouts
+* Design systems
+* Information architecture
+* Usability
 
 </td>
 </tr>
@@ -81,235 +105,296 @@ Creating interfaces that balance visual quality with usability, accessibility, a
 
 ---
 
-## `03` — Technology
+# Technology
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,mysql,html,css" alt="Programming Languages" />
 </p>
 
 ### Frontend & Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,expo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,tailwind" alt="Frontend and Mobile Technologies" />
 </p>
 
-### Backend & Infrastructure
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php" />
+  <img src="https://skillicons.dev/icons?i=laravel,php" alt="Backend Technologies" />
 </p>
 
-`REST APIs` · `JWT` · `Authentication` · `API Architecture`
+`REST APIs` · `JWT` · `Authentication` · `API Design`
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Databases" />
 </p>
 
-### Tools
+### Design & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Design and Development Tools" />
 </p>
 
-`XAMPP` · `MySQL Workbench` · `Git` · `GitHub`
+`XAMPP` · `MySQL Workbench`
 
 ---
 
-## `04` — Featured Project
+# Selected Work
 
-### Academic Internship Management System
+> A few projects that represent what I'm learning, building, and improving.
 
-> **A mobile-first platform for managing academic internship workflows.**
+## AIMS — Academic Internship Management System
 
-**AIMS** is a modern internship management system designed to support students and university stakeholders throughout the internship process.
+### Mobile-first internship management platform
+
+AIMS is a mobile-first system designed to streamline academic internship workflows for students and university stakeholders.
+
+The platform brings multiple internship processes into one system, reducing fragmented workflows and making information easier to manage.
+
+### Core Modules
 
 ```text
-APPLICATION
-     │
-     ├── Internship Applications
-     ├── Document Management
-     ├── OCR Validation
-     ├── DTR
-     ├── Weekly Journals
-     ├── Internship Monitoring
-     ├── Evaluations
-     ├── Notifications
-     ├── Analytics
-     └── Reports
+┌────────────────────────────────────────────────────┐
+│                    AIMS                            │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  Applications          Document Management         │
+│  OCR Validation        DTR                         │
+│  Weekly Journals       Internship Monitoring       │
+│  Evaluations           Notifications               │
+│  Analytics             Reports                     │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
-### Architecture
+### Stack
 
-`React Native` · `Expo` · `Laravel/PHP` · `REST API` · `JWT` · `MySQL`
+`React Native` · `Expo` · `Laravel` · `PHP` · `REST API` · `JWT` · `MySQL`
 
-**Status**
+**Status:** `● In Development`
 
-`● IN DEVELOPMENT`
-
-**Repository**
-
-[View AIMS Repository →](YOUR_AIMS_REPOSITORY_URL)
+**Repository:** [View AIMS →](YOUR_AIMS_REPOSITORY_URL)
 
 ---
 
-## `05` — How I Think
+## Project Name
 
-I approach development from both the **engineering** and **design** sides.
+A concise description of a real project you've built.
 
-| Principle                     | What it means                                                           |
-| ----------------------------- | ----------------------------------------------------------------------- |
-| **Solve the problem first**   | Technology should serve the problem, not the other way around.          |
-| **Design with intention**     | Every interface element should have a reason to exist.                  |
-| **Keep systems maintainable** | Good software should be understandable beyond its first implementation. |
-| **Build for people**          | Usability matters as much as functionality.                             |
+Focus on the **problem solved**, the **technical challenge**, and the **result** rather than simply listing features.
+
+**Stack:** `Technology` · `Technology` · `Technology`
+
+**Status:** `● Completed`
+
+**Repository:** [View Project →](YOUR_PROJECT_REPOSITORY_URL)
 
 ---
 
-## `06` — Design Philosophy
+## Project Name
 
-### `Structure → Function → Experience`
+Another meaningful project can be presented here.
+
+Keep project descriptions short. Let the repository provide the implementation details.
+
+**Stack:** `Technology` · `Technology` · `Technology`
+
+**Status:** `● Active`
+
+**Repository:** [View Project →](YOUR_PROJECT_REPOSITORY_URL)
+
+---
+
+# Engineering × Design
+
+One of the areas I'm most interested in is the relationship between **how software is built** and **how software is experienced**.
 
 ```text
-STRUCTURE
+ENGINEERING                         DESIGN
+
+Architecture                        Visual hierarchy
+     │                                   │
+     ▼                                   ▼
+Components                          Components
+     │                                   │
+     ▼                                   ▼
+APIs                                Interaction
+     │                                   │
+     ▼                                   ▼
+Data                                User flow
+     │                                   │
+     └───────────────┬───────────────────┘
+                     ▼
+               DIGITAL PRODUCT
+```
+
+Good engineering makes a product reliable.
+
+Good design makes it understandable.
+
+**Great products need both.**
+
+---
+
+# How I Build
+
+### 01 — Understand
+
+Before writing code, understand the problem, users, requirements, and constraints.
+
+### 02 — Structure
+
+Break the problem into manageable systems, components, data, and workflows.
+
+### 03 — Build
+
+Implement functionality with maintainability and clarity in mind.
+
+### 04 — Refine
+
+Test, review, simplify, and improve the experience.
+
+> **Simple for the user. Structured for the developer.**
+
+---
+
+# Current Focus
+
+I'm currently deepening my skills in:
+
+```text
+Backend Architecture
+████████████████████░
+
+React Native
+██████████████████░░
+
+REST API Development
+███████████████████░
+
+Database Design
+████████████████░░░░
+
+Full-Stack Development
+████████████████░░░░
+
+UI/UX Design
+██████████████████░░
+
+Software Architecture
+███████████████░░░░░
+```
+
+### Exploring
+
+* Scalable backend architecture
+* React Native application development
+* RESTful API design
+* Authentication and authorization
+* Database modeling
+* Full-stack systems
+* UI/UX design systems
+* Modern application architecture
+
+---
+
+# GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&langs_count=8"
+    height="170"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MartialbutDev&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+# Beyond Code
+
+I'm interested in the parts of software development that happen **before and after the code**.
+
+```text
+Problem
+   ↓
+Research
+   ↓
+User Flow
+   ↓
+Wireframe
+   ↓
+Interface
    ↓
 Architecture
-Data
-APIs
-Components
    ↓
-FUNCTION
+Development
    ↓
-Features
-Logic
-Workflows
+Testing
    ↓
-EXPERIENCE
-   ↓
-UI
-UX
-Accessibility
-Usability
+Iteration
 ```
 
-The goal isn't simply to make software that works.
+That means I'm constantly learning about:
 
-**The goal is to make software that makes sense.**
-
----
-
-## `07` — Current Focus
-
-```text
-BACKEND DEVELOPMENT       ███████████████████░
-REACT NATIVE              ██████████████████░░
-FULL-STACK WEB            ████████████████░░░░
-API DEVELOPMENT           █████████████████░░░
-DATABASE DESIGN           ███████████████░░░░░
-SOFTWARE ARCHITECTURE     ██████████████░░░░░░
-UI/UX DESIGN              █████████████████░░░
-```
-
-Currently exploring:
-
-* Backend architecture
-* React Native
-* REST API development
-* Database design
-* Authentication systems
-* Full-stack development
-* UI/UX systems
-* Modern interface design
-* Software architecture
+**Product thinking · UI/UX · Software architecture · Accessibility · Usability · Developer experience**
 
 ---
 
-## `08` — GitHub Activity
+# A Few Principles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartialbutDev&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&hide_border=true&area=true" width="95%" />
-</p>
+| Principle                   | Approach                                                                                 |
+| --------------------------- | ---------------------------------------------------------------------------------------- |
+| **Clarity over complexity** | Prefer understandable solutions over clever ones.                                        |
+| **Users first**             | Software should solve the user's problem, not create another one.                        |
+| **Design with purpose**     | Visual decisions should support the experience.                                          |
+| **Build to improve**        | The first version doesn't have to be perfect. It has to be a foundation for improvement. |
 
 ---
 
-## `09` — Beyond Code
+# Let's Connect
 
-Good software isn't only about code.
-
-I'm also interested in:
-
-```text
-UI DESIGN
-    +
-USER EXPERIENCE
-    +
-INFORMATION ARCHITECTURE
-    +
-DESIGN SYSTEMS
-    +
-SOFTWARE ARCHITECTURE
-    =
-BETTER DIGITAL PRODUCTS
-```
-
-I want to continue developing the ability to understand **both how a system works and how people experience it.**
-
----
-
-## `10` — Roadmap
-
-### Now
-
-`●` Strengthen backend development
-`●` Build React Native applications
-`●` Improve UI/UX skills
-`●` Develop real-world systems
-
-### Next
-
-`○` Deeper software architecture
-`○` Advanced API design
-`○` Scalable application development
-`○` Better product design systems
-
-### Eventually
-
-`○` Build and ship production-grade software
-`○` Contribute to meaningful open-source projects
-`○` Develop complete digital products from idea → design → system
-
----
-
-## `11` — Connect
+Interested in software development, UI/UX, or building something together?
 
 <p align="center">
 
 <a href="https://github.com/MartialbutDev">
-<img src="https://img.shields.io/badge/GitHub-MartialbutDev-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-MartialbutDev-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -318,20 +403,22 @@ I want to continue developing the ability to understand **both how a system work
 
 <p align="center">
 
-### Building. Designing. Learning. Improving.
-
-<sub>
-Building, learning, and improving one project at a time.
-</sub>
+**Building software. Designing experiences. Learning continuously.**
 
 <br />
 
-<sub>
-Thanks for visiting my profile.
-</sub>
+<sub>Building, learning, and improving one project at a time.</sub>
+
+<br /><br />
+
+<sub>Thanks for visiting my profile.</sub>
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=110&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:171717,100:262626&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
