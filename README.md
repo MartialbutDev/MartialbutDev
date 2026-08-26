@@ -4,7 +4,9 @@
 
 <br/>
 
-**Building software that works well and feels right.**
+<a href="https://github.com/MartialbutDev">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A1A1AA&center=true&vCenter=true&width=560&lines=Building+software+that+works+well+and+feels+right.;BSIT+student+%C2%B7+backend+%2B+mobile+%2B+UI%2FUX;Currently+shipping+AIMS+%E2%80%94+internship+management+platform." alt="typing subtitle" />
+</a>
 
 <br/>
 
@@ -12,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-YOUR_EMAIL@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=MartialbutDev&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/MartialbutDev)
 
 <br/>
 
@@ -83,25 +86,37 @@ SOFTWARE ENGINEERING  +  UI/UX DESIGN  +  PRODUCT THINKING  =  BETTER DIGITAL PR
 
 ## Stack
 
-**Languages**
-
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,mysql,html,css" />
+</details>
 
-**Frontend / Mobile**
-
+<details>
+<summary><b>Frontend / Mobile</b></summary>
+<br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind" /> &nbsp; <sub>Expo · React Native</sub>
+</details>
 
-**Backend**
-
+<details>
+<summary><b>Backend</b></summary>
+<br/>
 <img src="https://skillicons.dev/icons?i=laravel,php" /> &nbsp; <sub>REST APIs · JWT</sub>
+</details>
 
-**Database**
-
+<details>
+<summary><b>Database</b></summary>
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+</details>
 
-**Tools**
-
+<details>
+<summary><b>Tools</b></summary>
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> &nbsp; <sub>XAMPP · MySQL Workbench</sub>
+</details>
+
+<sub>Click a category to expand.</sub>
 
 <br/>
 
@@ -115,7 +130,8 @@ A mobile-first academic internship management platform designed to support inter
 
 **Purpose** — Give students and university stakeholders a single mobile-first platform to manage the internship process from application to evaluation.
 
-**Key modules**
+<details open>
+<summary><b>Key modules</b> — click to collapse</summary>
 
 | Module | Description |
 |---|---|
@@ -127,12 +143,18 @@ A mobile-first academic internship management platform designed to support inter
 | Notifications | Status and activity updates |
 | Analytics & Reports | Reporting on internship data |
 
+</details>
+
 **Technology** — React Native · Expo · TypeScript · Laravel/PHP · REST API · JWT · MySQL
 
 **Status** — `In Development`
 
 **Repository** — [`YOUR_AIMS_REPOSITORY_URL`](YOUR_AIMS_REPOSITORY_URL)
 
+<br/>
+
+<details>
+<summary><b>More projects</b> — click to expand</summary>
 <br/>
 
 <table width="100%">
@@ -175,6 +197,8 @@ Short description
 </td>
 </tr>
 </table>
+
+</details>
 
 <br/>
 
@@ -222,7 +246,25 @@ Good software should be useful, understandable, maintainable, and usable.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartialbutDev&hide_border=true&theme=default" width="48%"/>
 
+<br/><br/>
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/MartialbutDev/MartialbutDev/output/github-contribution-grid-snake-dark.svg" width="80%" alt="contribution snake animation"/>
+<!--END_SECTION:snake-->
+
 </div>
+
+<details>
+<summary><sub>How the snake animation is generated (one-time setup)</sub></summary>
+<br/>
+
+This animates your real contribution graph. It needs a small GitHub Action, not fabricated data:
+
+1. In this repo, add `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action.
+2. It generates `github-contribution-grid-snake-dark.svg` on an `output` branch from your actual contribution calendar.
+3. The `<img>` above will start rendering once that branch and file exist — until then it will show as broken.
+
+</details>
 
 <br/>
 
