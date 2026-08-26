@@ -12,99 +12,77 @@
 
 <a href="#-about-me">About</a> · <a href="#-tech-stack">Tech Stack</a> · <a href="#-featured-project">AIMS</a> · <a href="#-github-analytics">Stats</a> · <a href="#-connect-with-me">Contact</a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=MartialbutDev&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
 
 </div>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
 I'm **Varren Meg Naive**, a **BSIT student at the University of Science and Technology of Southern Philippines (USTP)**.
 
-I enjoy building practical software solutions that bring together **backend systems, databases, APIs, and modern user interfaces**.
+I build practical software that ties together **backend systems, databases, REST APIs, and mobile-first interfaces** — right now most of that energy is going into **AIMS**, a full-stack internship management platform I'm building from the ground up.
 
-My main interests are **backend development, mobile application development, REST APIs, database design, and system architecture**.
-
-<details>
-<summary><b>✨ More about me</b></summary>
-
-<br>
-
-|                           |                                             |
-| ------------------------- | ------------------------------------------- |
-| 🎓 **Education**          | BSIT @ USTP                                 |
-| 💻 **Primary Focus**      | Backend Development                         |
-| 📱 **Also Interested In** | Mobile & Web Development                    |
-| 🗄️ **Databases**         | MySQL / MariaDB                             |
-| 🚀 **Current Project**    | Academic Internship Management System       |
-| 🌱 **Currently Learning** | Laravel, React Native, APIs & System Design |
-| ⚡ **Development Style**   | Learn by building                           |
-
-</details>
+<table>
+<tr><td>🎓</td><td><b>Education</b></td><td>BSIT @ USTP</td></tr>
+<tr><td>💻</td><td><b>Primary Focus</b></td><td>Backend Development</td></tr>
+<tr><td>📱</td><td><b>Also Building In</b></td><td>Mobile & Web</td></tr>
+<tr><td>🗄️</td><td><b>Databases</b></td><td>MySQL / MariaDB</td></tr>
+<tr><td>🚀</td><td><b>Current Project</b></td><td>Academic Internship Management System (AIMS)</td></tr>
+<tr><td>🌱</td><td><b>Currently Sharpening</b></td><td>Laravel, React Native + TypeScript, API & system design</td></tr>
+<tr><td>⚡</td><td><b>Style</b></td><td>Learn by building — plan, build, test, break, fix, repeat</td></tr>
+</table>
 
 ---
 
 ## 🎯 What I Do
 
-<div align="center">
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### ⚙️ Backend
-
-PHP
-Laravel
-REST APIs
-Authentication
-Business Logic
-Databases
+**⚙️ Backend**
+- PHP / Laravel
+- REST API design
+- Auth & authorization
+- Business logic
+- Database design
 
 </td>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
-
-### 📱 Mobile
-
-React Native
-Expo
-API Integration
-Mobile UI/UX
-Cross-platform Apps
+**📱 Mobile**
+- React Native (Expo)
+- TypeScript
+- Expo Router
+- API integration
+- Cross-platform UI
 
 </td>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
-
-### 🌐 Web
-
-React
-JavaScript
-Tailwind CSS
-Responsive UI
-Web Applications
+**🌐 Web**
+- React
+- JavaScript
+- Tailwind CSS
+- Responsive UI
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
 <div align="center">
 
-## 📱 Academic Internship Management System
+### 📱 Academic Internship Management System — `AIMS`
 
-### `AIMS`
-
-**A mobile-first platform for managing university internship workflows.**
+**A mobile-first platform that digitizes university internship workflows end to end.**
 
 <a href="https://github.com/MartialbutDev/AIMS">
 <img src="https://img.shields.io/badge/🚀%20View%20AIMS%20Repository-238636?style=for-the-badge" />
@@ -112,44 +90,38 @@ Web Applications
 
 </div>
 
-### 💡 What is AIMS?
-
-**AIMS (Academic Internship Management System)** is a mobile-first system designed to digitize and streamline university internship processes.
-
-It provides a centralized platform for students, internship coordinators, host training establishments, and university personnel.
+AIMS gives students, internship coordinators, host training establishments, and university staff one centralized system to handle applications, documentation, monitoring, and reporting — replacing what's normally a paper-heavy process.
 
 <details>
-<summary><b>✨ Explore AIMS Features</b></summary>
-
+<summary><b>✨ Core Modules</b></summary>
 <br>
 
-| Module            | Purpose                                        |
-| ----------------- | ---------------------------------------------- |
-| 🔐 Authentication | Secure login and role-based access             |
-| 📝 Applications   | Digital internship applications                |
-| 🏢 HTE Management | Host Training Establishment management         |
-| 📄 Documents      | Digital document submission                    |
-| 🔎 OCR            | Document information extraction and validation |
-| ⏱️ DTR            | Daily Time Record management                   |
-| 📖 Journals       | Weekly internship journals                     |
-| 📊 Monitoring     | Internship progress monitoring                 |
-| 📈 Analytics      | Internship data insights                       |
-| 🔔 Notifications  | Important updates and reminders                |
-| 📑 Reports        | Digital reporting                              |
+| Module | Purpose |
+|---|---|
+| 🔐 Authentication | Secure login and role-based access |
+| 📝 Applications | Digital internship applications |
+| 🏢 HTE Management | Host Training Establishment records |
+| 📄 Documents | Digital document submission |
+| 🔎 OCR | Automated document extraction & validation |
+| ⏱️ DTR | Daily Time Record management |
+| 📖 Journals | Weekly internship journals |
+| 📊 Monitoring | Internship progress tracking |
+| 📈 Analytics | Internship data insights |
+| 🔔 Notifications | Reminders and status updates |
+| 📑 Reports | Digital reporting |
 
 </details>
 
 <details>
-<summary><b>🏗️ Explore the Technology</b></summary>
-
+<summary><b>🏗️ Architecture</b></summary>
 <br>
 
 ```text
                     AIMS
                      │
                      ▼
-              React Native
-                  + Expo
+         React Native (Expo Router)
+              + TypeScript
                      │
                      │ REST API
                      ▼
@@ -166,90 +138,45 @@ It provides a centralized platform for students, internship coordinators, host t
 
 ---
 
-# 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚛️ Frameworks & Libraries</b></summary>
-
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Tools</b></summary>
-
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-</details>
-
----
-
-# 🧩 Development Workflow
+## 🛠️ Tech Stack
 
 <div align="center">
 
-```text
-💡 IDEA
-   │
-   ▼
-📋 PLAN
-   │
-   ▼
-🏗️ BUILD
-   │
-   ▼
-🧪 TEST
-   │
-   ▼
-🐛 DEBUG
-   │
-   ▼
-🚀 DEPLOY
-   │
-   ▼
-📚 LEARN
-   │
-   └──────────────► 🔄 IMPROVE
-```
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-# 📂 Featured Repositories
+## 📂 Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/MartialbutDev/AIMS">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=AIMS&theme=github_dark&hide_border=true" />
 </a>
-
 <a href="https://github.com/MartialbutDev/Varren-Meg-Naive">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartialbutDev&repo=Varren-Meg-Naive&theme=github_dark&hide_border=true" />
 </a>
@@ -258,31 +185,18 @@ It provides a centralized platform for students, internship coordinators, host t
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MartialbutDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartialbutDev&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
+<br>
 
 <img src="https://streak-stats.demolab.com?user=MartialbutDev&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartialbutDev&theme=github-compact&hide_border=true&area=true" width="95%" />
 
@@ -290,132 +204,63 @@ It provides a centralized platform for students, internship coordinators, host t
 
 ---
 
-# 🌱 Currently Learning
+## 🎯 Roadmap
 
-<details>
-<summary>🔧 <b>Backend Development</b></summary>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br>
+**✅ Completed**
+- Programming fundamentals
+- Database development
+- Git & GitHub workflows
+- React & React Native
+- Laravel & REST APIs
 
-```text
-Laravel
-PHP
-RESTful APIs
-Authentication
-Authorization
-API Security
-Database Architecture
-Backend Optimization
-```
+</td>
+<td width="33%" valign="top">
 
-</details>
+**🔄 In Progress**
+- AIMS (full-stack build)
+- Backend architecture
+- Mobile app development
+- System design
 
-<details>
-<summary>📱 <b>Mobile Development</b></summary>
+</td>
+<td width="33%" valign="top">
 
-<br>
+**🔮 Next Up**
+- Ship production-ready apps
+- Deepen backend/API skills
+- Contribute to open source
+- Sharpen SWE fundamentals
 
-```text
-React Native
-Expo
-Mobile-first Architecture
-API Integration
-UI/UX
-Application State Management
-```
-
-</details>
-
-<details>
-<summary>🏗️ <b>Software Engineering</b></summary>
-
-<br>
-
-```text
-System Architecture
-Database Normalization
-Clean Code
-Git & GitHub
-Documentation
-Development Workflows
-```
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
-
-# 🎯 Development Roadmap
-
-<details>
-<summary>🚀 <b>Click to view my roadmap</b></summary>
-
-<br>
-
-### ✅ Completed
-
-* Programming fundamentals
-* Database development
-* Git & GitHub
-* Web development
-* React
-* React Native
-* Laravel
-* REST API development
-
-### 🔄 Currently Working On
-
-* Academic Internship Management System
-* Backend architecture
-* Mobile application development
-* System design
-
-### 🔮 Future Goals
-
-* Build production-ready applications
-* Improve advanced backend skills
-* Contribute to open-source projects
-* Strengthen software engineering practices
-* Continue growing as a professional developer
-
-</details>
-
----
-
-# 💭 Developer Philosophy
 
 <div align="center">
 
 ### `BUILD → TEST → LEARN → IMPROVE`
 
-> **"Good software is not just about making things work. It's about continuously learning how to make them better."**
+> *"Good software isn't just about making things work — it's about continuously learning how to make them better."*
 
-</div>
+<br>
 
----
-
-# 🤝 Let's Connect
-
-<div align="center">
+## 🤝 Let's Connect
 
 <a href="https://github.com/MartialbutDev">
 <img src="https://img.shields.io/badge/GitHub-MartialbutDev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="mailto:varrenmegn.naive@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### 👋 Thanks for visiting!
-
-**Explore my repositories and follow my development journey.**
-
-<br>
+**Thanks for stopping by — explore the repos and follow along as AIMS grows.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:1F6FEB" width="100%" />
 
